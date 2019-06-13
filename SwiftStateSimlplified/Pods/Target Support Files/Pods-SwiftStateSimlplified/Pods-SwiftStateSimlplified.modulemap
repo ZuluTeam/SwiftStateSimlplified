@@ -1,0 +1,6 @@
+framework module Pods_SwiftStateSimlplified {
+  umbrella header "Pods-SwiftStateSimlplified-umbrella.h"
+
+  export *
+  module * { export * }
+}
